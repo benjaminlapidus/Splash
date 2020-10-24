@@ -1,0 +1,63 @@
+
+/* Class = "UIButton"; normalTitle = "🏠"; ObjectID = "4Rs-Q1-9Io"; */
+"4Rs-Q1-9Io.normalTitle" = "🏠";
+
+/* Class = "UILabel"; text = "Hook Speed: "; ObjectID = "64N-g7-gYS"; */
+"64N-g7-gYS.text" = "Hook Speed: ";
+
+/* Class = "UIButton"; normalTitle = "🏠"; ObjectID = "7En-dR-8hJ"; */
+"7En-dR-8hJ.normalTitle" = "🏠";
+
+/* Class = "UILabel"; text = "Slow"; ObjectID = "9tH-gG-pPr"; */
+"9tH-gG-pPr.text" = "Slow";
+
+/* Class = "UILabel"; text = "Fish Speed"; ObjectID = "EFB-iH-560"; */
+"EFB-iH-560.text" = "Fish Speed";
+
+/* Class = "UILabel"; text = "Reel Difficulty: "; ObjectID = "HKc-gZ-ib4"; */
+"HKc-gZ-ib4.text" = "Reel Difficulty: ";
+
+/* Class = "UIButton"; normalTitle = "10"; ObjectID = "HcY-tG-scC"; */
+"HcY-tG-scC.normalTitle" = "10";
+
+/* Class = "UITableViewSection"; headerTitle = "Fish Speed"; ObjectID = "J1B-hZ-sk9"; */
+"J1B-hZ-sk9.headerTitle" = "Fish Speed";
+
+/* Class = "UILabel"; text = "Tap to Reel"; ObjectID = "Klb-cP-tJu"; */
+"Klb-cP-tJu.text" = "Tap to Reel";
+
+/* Class = "UILabel"; text = "Caught Date"; ObjectID = "RiI-hd-YBt"; */
+"RiI-hd-YBt.text" = "Caught Date";
+
+/* Class = "UILabel"; text = "fish_Name"; ObjectID = "UQx-RO-Lae"; */
+"UQx-RO-Lae.text" = "fish_Name";
+
+/* Class = "UITableViewSection"; headerTitle = "Reel Difficulty"; ObjectID = "Vj6-NQ-sw8"; */
+"Vj6-NQ-sw8.headerTitle" = "Reel Difficulty";
+
+/* Class = "UIButton"; normalTitle = "🏠"; ObjectID = "X7U-Ye-oKj"; */
+"X7U-Ye-oKj.normalTitle" = "🏠";
+
+/* Class = "UIButton"; normalTitle = "Catch Log"; ObjectID = "bUf-4M-m5w"; */
+"bUf-4M-m5w.normalTitle" = "Catch Log";
+
+/* Class = "UIButton"; normalTitle = "🏠"; ObjectID = "gJO-8t-QKY"; */
+"gJO-8t-QKY.normalTitle" = "🏠";
+
+/* Class = "UIButton"; normalTitle = "🏠 "; ObjectID = "hGh-a3-xdU"; */
+"hGh-a3-xdU.normalTitle" = "🏠 ";
+
+/* Class = "UILabel"; text = "12/1/2019"; ObjectID = "kUN-HQ-q1T"; */
+"kUN-HQ-q1T.text" = "12/1/2019";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "kUr-MP-4zY"; */
+"kUr-MP-4zY.normalTitle" = "Start";
+
+/* Class = "UITableViewSection"; headerTitle = "Hook Speed"; ObjectID = "vbZ-6n-kaj"; */
+"vbZ-6n-kaj.headerTitle" = "Hook Speed";
+
+/* Class = "UILabel"; text = "Slow"; ObjectID = "w2J-YH-MvY"; */
+"w2J-YH-MvY.text" = "Slow";
+
+/* Class = "UIButton"; normalTitle = "⚙️"; ObjectID = "xLa-wl-dNX"; */
+"xLa-wl-dNX.normalTitle" = "⚙️";

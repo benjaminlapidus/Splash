@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  Splash
+
+  Created by Ben Lapidus on 12/4/19.
+  Copyright © 2019 Ben Lapidus. All rights reserved.
+*/
+
+"startButton" = "Start";
+"catchLog" = "Catch Log";
+"fishSpeed" = "Fish Speed";
+"reelDifficulty" = "Reel Difficulty ";
+"hookSpeed" = "Hook Speed ";
+"fast" = "Fast";
+"medium" = "Medium";
+"slow" = "Slow";
+"hard" = "Hard";
+"easy" = "Easy";
+"tapToReel" = "Tap to Reel";
+"youCaughtAlert" = "You caught a ";
+"whatWould" = "What would you like to do?";
+"keepFishing" = "Keep Fishing";
+"stopFishing" = "Stop Fishing";
+"throwItBack" = "Throw it back";
+"caughtDate" = "Caught Date";
+"catchFailError" = "You didn't reel fast enough and the fish got away!";
+"catchFailErrorTitle" = "Got away!";
+"okay" = "Okay";
+"warning" = "Warning";
+"delete" = "Delete";
+"cancel" = "Cancel";
+"back" = "Back";
+"deleteError" = "Are you sure you want to delete this? This cannot be undone!";
+
+
+

@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  Splash
+
+  Created by Ben Lapidus on 12/4/19.
+  Copyright © 2019 Ben Lapidus. All rights reserved.
+*/
+
+"startButton" = "Comienzo";
+"catchLog" = "Registro";
+"fishSpeed" = "Velocidad del pez";
+"reelDifficulty" = "Dificultad del carrete ";
+"hookSpeed" = "Velocidad de gancho ";
+"fast" = "Rápido";
+"medium" = "Medio";
+"slow" = "Lento";
+"hard" = "Difícil";
+"easy" = "Fácil";
+"tapToReel" = "Toque para enrollar";
+"youCaughtAlert" = "Atrapaste un ";
+"whatWould" = "¿Que te gustaría hacer?";
+"keepFishing" = "Seguir pescando";
+"stopFishing" = "Deja de pescar";
+"throwItBack" = "Tíralo de vuelta";
+"caughtDate" = "Fecha";
+"catchFailError" = "¡No tambaleaste lo suficientemente rápido y el pez se escapó!";
+"catchFailErrorTitle" = "¡Me escapé!";
+"okay" = "Bueno";
+"warning" = "Advertencia";
+"delete" = "Borrar";
+"cancel" = "Cancelar";
+"back" = "Atrás";
+"deleteError" = "¿Estás seguro de que deseas eliminar esto? ¡Esto no se puede deshacer!";
+
